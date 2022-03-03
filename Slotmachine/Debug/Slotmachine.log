@@ -1,0 +1,3 @@
+﻿  1.cpp
+\\StuHomeOdd\HomeDrive3$\1901193\Desktop\Slotmachine\Slotmachine\1.cpp(179,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Slotmachine.vcxproj -> \\StuHomeOdd\HomeDrive3$\1901193\Desktop\Slotmachine\Debug\Slotmachine.exe
